@@ -3,9 +3,13 @@ This is a simple web application built with Flask that calculates the Body Mass 
 
 Installation
 Clone the repository: git clone https://github.com/CuongAI86/BMI_calculator_Flask.git
+
 Navigate into the project directory: cd <BMI_calculator_Flask>
+
 Install the required dependencies: pip install -r requirements.txt
+
 Start the Flask development server: python app.py
+
 The app should now be running at http://127.0.0.1:5000.
 
 Usage

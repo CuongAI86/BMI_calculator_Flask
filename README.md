@@ -2,15 +2,15 @@ BMI Calculator
 This is a simple web application built with Flask that calculates the Body Mass Index (BMI) of a person based on their height and weight.
 
 Installation
-Clone the repository: git clone https://github.com/CuongAI86/BMI_calculator_Flask.git
+1. Clone the repository: git clone https://github.com/CuongAI86/BMI_calculator_Flask.git
 
-Navigate into the project directory: cd <BMI_calculator_Flask>
+2. Navigate into the project directory: cd <BMI_calculator_Flask>
 
-Install the required dependencies: pip install -r requirements.txt
+3. Install the required dependencies: pip install -r requirements.txt
 
-Start the Flask development server: python app.py
+4. Start the Flask development server: python app.py
 
-The app should now be running at http://127.0.0.1:5000.
+5. The app should now be running at http://127.0.0.1:5000.
 
 Usage
 To use the BMI calculator, simply enter your height (in meters) and weight (in kilograms) into the form on the home page, and click the "Calculate BMI" button. The app will calculate your BMI and display the result on the next page.

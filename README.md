@@ -1,4 +1,4 @@
-BMI Calculator
+**BMI Calculator**\
 This is a simple web application built with Flask that calculates the Body Mass Index (BMI) of a person based on their height and weight.
 
 Installation

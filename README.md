@@ -19,7 +19,7 @@ Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 Credits
-This project was created by [CuongAI86]. Special thanks to the OpenAI team for training the language model used to generate this README.
+This project was created by CuongAI86. Special thanks to the OpenAI team for training the language model used to generate this README.
 
 License
 This project is licensed under the MIT License.
